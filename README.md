@@ -1,7 +1,7 @@
 # CapStone
 
 ### 1. Flutter 기초 다지기 (1~2주)
-Flutter 설치 및 실행 ✔ 
+Flutter 설치 및 실행 ✔     
 Flutter 구조 이해 → lib/main.dart에서 앱 실행 구조 파악    
 기본 위젯 학습 → Scaffold, AppBar, Text, Button, ListView 등    
 Flutter 상태 관리 배우기 → setState()로 화면 상태 변경 연습    
