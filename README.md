@@ -22,6 +22,5 @@ Firebase Storage → 이미지, 파일 업로드 기능 추가
 이벤트 관리 (동아리 일정 등록 & 참여 신청)    
 
 ### 4. UI/UX 개선 및 배포 (8주 이후)
-**Flutter 디자인 시스템 적용 (Material 3 또는 Cupertino)    
-앱 성능 최적화    
+**Flutter 디자인 시스템 적용 (Material 3 또는 Cupertino) 앱 성능 최적화**    
 Google Play Store & App Store 배포    
