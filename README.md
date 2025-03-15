@@ -7,7 +7,7 @@ Figma 를 통해 UX / UI 디자인 견본 제작 △ (Figma 미완성)
 
 ### 1. Flutter 기초 다지기 (1~2주)
 Flutter 설치 및 실행 ✔     
-Flutter 구조 이해 → lib/main.dart에서 앱 실행 구조 파악    
+Flutter 구조 이해 → lib/main.dart에서 앱 실행 구조 파악  ✔       
 기본 위젯 학습 → Scaffold, AppBar, Text, Button, ListView 등    
 Flutter 상태 관리 배우기 → setState()로 화면 상태 변경 연습    
 페이지 이동 (Navigator 사용) → 여러 화면을 전환하는 방법 익히기    
